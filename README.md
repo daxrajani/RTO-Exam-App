@@ -1,4 +1,10 @@
 # RTO-Exam-App
+
+This application is developed for educational purposes, allowing the users to prepare the multiple choice questions for RTO exam.
+And also user can watch video related to RTO exam to prepare.
+
+
+
  ![image](https://user-images.githubusercontent.com/87118010/146134702-311a8b4f-e2f7-4c7c-982f-d38a7ea607ff.png)
 ![image](https://user-images.githubusercontent.com/87118010/146134752-2aee1fb9-bf0f-4038-bf43-557ea09fd544.png)
 ![image](https://user-images.githubusercontent.com/87118010/146134788-ca27541d-638c-4000-9104-334b48821d99.png)
