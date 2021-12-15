@@ -1,7 +1,7 @@
 # RTO-Exam-App
 
 This application is developed for educational purposes, allowing the users to prepare the multiple choice questions for RTO exam.
-And also user can watch video related to RTO exam to prepare.
+And also user can watch video related to RTO exam for preparation.
 
 
 
