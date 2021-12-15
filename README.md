@@ -1,8 +1,8 @@
 # RTO-Exam-App
 
 This application is developed for educational purposes, allowing the users to prepare for both practical and theory RTO exam.
-User can watch video for preparation of RTO practical exam.
-And user can prepare for RTO theory exam by giving exam in the app.
+<br/>User can watch video for preparation of RTO practical exam.
+<br/>And user can prepare for RTO theory exam by giving exam in the app.
 
 
 
